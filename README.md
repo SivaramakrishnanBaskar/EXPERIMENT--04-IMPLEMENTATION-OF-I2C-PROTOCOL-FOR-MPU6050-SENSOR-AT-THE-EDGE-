@@ -2,10 +2,10 @@
 
 ---
 
-### **NAME:**  
-### **DEPARTMENT:**  
-### **ROLL NO:**  
-### **DATE OF EXPERIMENT:**  
+### NAME:SIVARAMAKRISHNAN B
+### DEPARTMENT:IOT  
+### ROLL NO:212222110044
+### DATE OF EXPERIMENT:10/03/2025
 
 ---
 
@@ -54,6 +54,9 @@ The **accelerometer** measures linear acceleration in **X, Y, Z axes**, while th
 ---
 
 ## **CIRCUIT DIAGRAM:**  
+
+![Screenshot 2025-03-24 111020](https://github.com/user-attachments/assets/57173266-0b92-4093-9b24-003105593433)
+
 ### **Connections:**  
 
 | MPU6050 Pin | Raspberry Pi Pico Pin |
@@ -122,6 +125,16 @@ Accel: X=0.02g, Y=-0.01g, Z=1.00g | Gyro: X=0.05°/s, Y=-0.02°/s, Z=0.01°/s
 Accel: X=0.03g, Y=-0.02g, Z=1.01g | Gyro: X=0.06°/s, Y=-0.03°/s, Z=0.02°/s
 ...
 ```
+
+![Screenshot 2025-03-24 110245](https://github.com/user-attachments/assets/9ee6879e-3625-4810-93f2-31013f272477)
+
+![Screenshot 2025-03-24 110308](https://github.com/user-attachments/assets/6464cf56-5db0-4a3f-9603-6c38f9c5ea66)
+
+![Screenshot 2025-03-24 110325](https://github.com/user-attachments/assets/2083d478-68c2-4bd6-a815-2a933385cbbb)
+
+
+![Screenshot 2025-03-24 111343](https://github.com/user-attachments/assets/2f95d55b-8368-44b2-b908-6b457af8251e)
+
 ---
 
 ## **RESULT:**  
